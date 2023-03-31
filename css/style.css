@@ -1,3 +1,36 @@
 body{
     background: rgb(236, 111, 111);
+    margin-left: 20px;
+    margin-right: 20px;
+}
+
+header{
+    margin-top: 90px;
+}
+
+h1{
+    color: rgb(0, 110, 253);
+    font-family: fantasy;
+}
+
+h2{
+    font-family: fantasy;
+}
+
+p{
+    font-size: 18px;
+
+}
+
+img{
+    margin-bottom: 20px;
+}
+
+.img_contato{
+    margin: 10px;
+    width: 100px;
+}
+
+footer{
+    margin-bottom: 30px;
 }
